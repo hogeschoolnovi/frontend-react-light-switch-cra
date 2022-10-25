@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 
 function App() {
+  const [light, toggleLight] = useState(false);
+  console.log(light);
+
   return (
     <main className="off">
       <section>
@@ -12,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+  export default App;
