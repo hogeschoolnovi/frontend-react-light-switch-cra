@@ -9,7 +9,7 @@ Je gaat ervoor zorgen dat de gebruiker het licht van deze applicatie aan- en uit
 ## Applicatie starten
 
 Als je het project gecloned hebt naar jouw locale machine, installeer je eerst de `node_modules` door het volgende
-commando in de terminal te runnen::w
+commando in de terminal te runnen
 
 `npm install`
 
