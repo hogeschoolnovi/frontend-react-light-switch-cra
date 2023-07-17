@@ -6,7 +6,7 @@ Je gaat ervoor zorgen dat de gebruiker het licht van deze applicatie aan- en uit
 
 ![screenshot](src/assets/screenshot.png)
 
-Het project is opgezet met [Create React App](https://vitejs.dev/guide/](https://create-react-app.dev/) (React versie 18.2.0). 
+Het project is opgezet met [Create React App](https://create-react-app.dev/) (React versie 18.2.0). 
 
 ## Applicatie starten
 
